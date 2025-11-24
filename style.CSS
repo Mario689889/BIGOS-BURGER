@@ -1,0 +1,32 @@
+.cursiva {
+    font-style: italic;
+}
+.negrita{
+    font-weight: bold;
+}
+body{
+    background-color: azure;
+}
+.mi-boton {
+  background-color: #4CAF50; /* color de fondo */
+  color: white;              /* color del texto */
+  padding: 12px 20px;        /* tamaño interno */
+  border: none;              /* quitar borde */
+  border-radius: 8px;        /* esquinas redondeadas */
+  font-size: 16px;
+  cursor: pointer;           /* mano al pasar */
+}
+
+.mi-boton:hover {
+  background-color: #45a049; /* color al pasar el mouse */
+}
+
+h1 {
+  font-size: 29px;
+  color: #27f53c;
+  
+}
+h3{
+font-size: 29px;
+color: #2735f5;
+}
