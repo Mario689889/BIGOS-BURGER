@@ -1,0 +1,18 @@
+.cursiva {
+    font-style: italic;
+}
+.negrita{
+    font-weight: bold;
+}
+body{
+    background-color: black;
+}
+h1 {
+  font-size: 40px;
+  color: #27f53c;
+  
+}
+h3{
+font-size: 29px;
+color: #2735f5;
+}
